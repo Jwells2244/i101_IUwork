@@ -1,0 +1,33 @@
+table, th, td{
+  border: thin black solid;
+  border-collapse: collapse;
+}
+
+th{
+  background-color: black;
+  color: white;
+}
+
+.tableRed{
+  background-color: firebrick;
+  color: springgreen;
+}
+
+.tableBlue{
+  background-color: blue;
+  color: yellow;
+}
+
+.tableYellow{
+  background-color: yellow;
+  color: blue;
+}
+.tableGreen{
+  background-color: green;
+  color: red;
+}
+
+.tableOrange{
+  background-color: orange;
+  color: blue;
+}

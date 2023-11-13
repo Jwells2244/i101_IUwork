@@ -1,0 +1,56 @@
+.backgrounds {
+  background-image: url('images/Desert.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 200px;
+}
+
+.spacing {
+  margin: 1in 2in 4.5in 3in;
+}
+
+.picture {
+  height: 200px;
+  width: 100px;
+}
+
+.div1 {
+  border: solid black 1px;
+  border-radius: 15px;
+  padding: 40px;
+}
+
+.div2 {
+  border: solid black 1px;
+  border-radius: 20px;
+  color: orange;
+}
+
+.div3 {
+  background-image: url('images/i101StockImage.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.div4 {
+  border: solid black 1px;
+  border-radius: 12px;
+  color: green;
+  padding: 50px;
+}
+
+.iucrimson {
+  color: crimson;
+}
+
+.purdueyellow {
+  color: gold;
+}
+
+.atleticoRed {
+  color: red;
+}
+
+.barcalonaBlue {
+  color: royalblue;
+}
